@@ -31,10 +31,6 @@ Esta es una aplicación web que te permite buscar y explorar stickers y gifs uti
 
 Puedes explorar la aplicación en acción https://tusticker.netlify.app/.
 
-## Contribuciones
-
-Si deseas contribuir a esta aplicación, ¡te damos la bienvenida! Siéntete libre de crear un pull request y estaremos encantados de revisarlo.
-
 ## Créditos
 
 Esta aplicación ha sido creada por Jesús Rosales, y está inspirada por la clase de [Fernando herrera](https://www.linkedin.com/in/fernando-herrera-b6b204200/) y en la API de [Giphy](https://developers.giphy.com/docs/clips/).
